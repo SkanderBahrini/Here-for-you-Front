@@ -1,0 +1,47 @@
+
+.links {
+    display: flex;
+    margin-left: 700px;
+    justify-content: space-around;
+    width: 500px;
+
+}
+
+.nav {
+  width: 800px;
+}
+.link {
+    font-family: 'Roboto', sans-serif;
+    color: white
+  }
+.link:hover {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: orange
+  }
+.carousel{
+  margin-left: 210px;
+  width: 700px;
+  height: 500px;
+}
+
+.carousel > text {
+
+  padding-top: 150px;
+}
+
+.cards{
+
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.home{
+  background-color: black;
+}
+.ourservices{
+  background-color: black;
+  
+}
+
